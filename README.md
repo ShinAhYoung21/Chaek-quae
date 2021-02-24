@@ -12,7 +12,7 @@
 <br>
 
 <p>
-  2021.2.25.Tur <strong>v1.</strong>
+  2021.2.25.Tur  <strong>v1.</strong>
   <br>
   <li>upload: 메인페이지, 중복되는 html코드 작성해둔 서식파일</li>
   <li>title(대제목),소제목,footer 콘텐츠에 css 지정</li>
