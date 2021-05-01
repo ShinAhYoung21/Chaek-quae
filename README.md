@@ -39,10 +39,9 @@
 
 ## 업데이트 목록
 * 2021.02.25.Tur
- - upload: 메인페이지, 중복되는 html코드 작성해둔 서식파일
- - title(대제목),소제목,footer 콘텐츠에 css 지정
+ > upload: 메인페이지, 중복되는 html코드 작성해둔 서식파일
+ > title(대제목),소제목,footer 콘텐츠에 css 지정
 
 * 2021.05.01.Sat
- - README 수정: from *HTML syntax* to **markdown syntax**
- - main page의 목차와 스타일 수정
- - 
+ > README 수정: from *HTML syntax* to **markdown syntax**
+ > main page의 목차와 스타일 수정 
