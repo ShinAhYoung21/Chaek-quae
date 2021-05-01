@@ -1,0 +1,28 @@
+header {
+    border-bottom: 1px solid gray;
+    padding: 20px;
+}
+h1 {
+    color: gray;
+}
+
+nav {
+    border-right: 1px solid gray;
+    width: 200px;
+    height: 600px;
+    float: left;
+}
+nav ol {
+    list-style: none;
+}
+
+#stl {
+    font-size: 1rem;
+    font-style: oblique;
+    color: gray;
+    }
+
+.foot {
+    font-size: 0.7rem;
+    font-style: oblique;
+    }
