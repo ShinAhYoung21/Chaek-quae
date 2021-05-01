@@ -1,6 +1,6 @@
 # 책쾌: Chaek-quae
 
-[대표적인 책벌레, Belle](https://media.giphy.com/media/JEhCPFfqi2Hy8/giphy.gif)
+![대표적인 책벌레, Belle](http://gph.is/1LrGJRy)
 
 ## 기획 계기: 초기 아이디어
 * 직접 읽는 것 외의 독서형태로 정보 습득을 보완할 필요성 느낌.
