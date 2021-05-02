@@ -16,7 +16,14 @@ nav ol {
     list-style: none;
 }
 
-#stl {
+main {
+    align-self: auto;
+}
+main img {
+    width: 20em;
+}
+
+#introduce {
     font-size: 1rem;
     font-style: oblique;
     color: gray;
