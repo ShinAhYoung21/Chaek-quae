@@ -4,13 +4,13 @@ header {
 }
 h1 {
     color: gray;
+    font-size: 8vw;
 }
 
 nav {
     border-right: 1px solid gray;
     width: 200px;
-    height: 600px;
-    float: left;
+    height: 20vw;
 }
 nav ol {
     list-style: none;
@@ -19,8 +19,11 @@ nav ol {
 main {
     align-self: auto;
 }
-main img {
-    width: 20em;
+.mainGif {
+    width: 50%;
+    position: absolute;
+    bottom: 300px;
+    left: 250px;
 }
 
 #introduce {
@@ -32,4 +35,25 @@ main img {
 .foot {
     font-size: 0.7rem;
     font-style: oblique;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 4rem;
+    padding: 15px 30px;
+    font-size: 1vw;
     }
+
+.guide {
+    font-size: 3.5vw;
+}
+
+.contents {
+    position: absolute;
+    bottom: 100px;
+    
+}
+
+.thumbnail {
+    max-width: 50%;
+}
